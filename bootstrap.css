@@ -1,0 +1,22 @@
+.btn{
+    border: none;
+    box-shadow: 0px 0px 1px gray;
+    background-color: white;
+    cursor: pointer;
+}
+.btn-warning{
+    background-color:yellow;
+
+}
+.btn-danger{
+    background-color: tomato;
+    color: white;
+}
+.btn-success{
+    background-color: green;
+    color: white;
+}
+.btn-primary{
+    background-color: blue;
+    color: white;
+}
